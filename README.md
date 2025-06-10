@@ -25,8 +25,8 @@
   - IMDB Movie Review Sentiment Analysis @ International journal of engineering 2022
   - IOT Based Attendance System with COVID-19 Protection @ Indo-Hungary Conference 2022
 - **Certifications**:
-  - CodePath.org's WEB 103: Advanced Web Development
   - Harvard CS50 Series
+  - CodePath.org's WEB 103: Advanced Web Development
   - MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
 - **a**:
 - **a**: 
