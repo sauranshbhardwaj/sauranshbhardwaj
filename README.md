@@ -76,16 +76,8 @@
 
 ## 📈 GitHub Stats
 
-![Naman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bajpainaman&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpainaman&layout=compact&theme=radical)
-
----
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Decentralized AI Systems](https://namansmind.blogspot.com/2024/11/building-decentralized-ai-systems.html)
-- [The Role of Federated Learning in Data Privacy](https://namansmind.blogspot.com/2024/11/the-role-of-federated-learning-in-data.html)
-<!-- BLOG-POST-LIST:END -->
+![Sauransh’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sauranshbhardwaj&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauranshbhardwaj&layout=compact&theme=radical)
 
 ---
 
@@ -99,9 +91,7 @@
 
 ---
 
-> “Shoot for the moon. Even if you miss, you’ll land among the stars.” ✨  
-> — Inspired by Norman Vincent Peale  
+> “Being able to write and understand code is just like being able to paint and understand art.” ✨  
+> — Sauransh Bhardwaj  
 
 ---
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=bajpainaman.bajpainaman)
