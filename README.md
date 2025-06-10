@@ -19,7 +19,7 @@
 ## 🏆 Achievements & Awards
 - **Hacker**: Stanford TreeHacks 2024, Berkeley Hack for Impact 2024
 - **Publications**:
--   Hand Sign Recognition using Mobile Net Deep Neural Architecture @ International journal of engineering, pure and applied sciences, 2022
+  - Hand Sign Recognition using Mobile Net Deep Neural Architecture @ International journal of engineering, pure and applied sciences, 2022
 -   IMDB Movie Review Sentiment Analysis @ International journal of engineering, pure and applied sciences, 2022
 -   IOT Based Attendance System with COVID-19 Protection @ Indo-Hungary Conference 2022
 - **Certifications**: CodePath.org's WEB 103: Advanced Web Development, Harvard CS50
