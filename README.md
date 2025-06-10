@@ -51,10 +51,9 @@
 
 | Project                       | Description                                                                                      | Tech Stack                              |
 |-------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
-| **Sciatic Protocol**          | Open, decentralized ML-service registry; federated learning layer atop Beckn Protocol            | Python • FastAPI • Docker • Redis        |
-| **MPX Video Search**          | End-to-end video indexer & retriever with auto-clip creation                                      | Python • Whisper • Elasticsearch         |
-| **Encryptech/Mycelium**       | Privacy-preserving AI platform: FHE + DP + Avalanche L1                                          | Rust • Zama FHE • AWS Nitro • Opacus     |
-| **Beckn Developer Assistant** | RAG-based AI agent scraping GitHub/Discord for turnkey Beckn integration                           | LangChain • ChromaDB • Oobabooga UI      |
+| **AI-Powered GitHub Risk Scanner**          | Open, decentralized ML-service registry; federated learning layer atop Beckn Protocol            | Python • FastAPI • Docker • Redis        |
+| **Autonomous Academic Workflow Agent**          | End-to-end video indexer & retriever with auto-clip creation                                      | Python • Whisper • Elasticsearch         |
+| **Semantic UX Assistant for Tailwind CSS**       | Privacy-preserving AI platform: FHE + DP + Avalanche L1                                          | Rust • Zama FHE • AWS Nitro • Opacus     |
 
 ---
 
