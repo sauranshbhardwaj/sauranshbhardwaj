@@ -76,7 +76,7 @@
 
 ## 📫 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/bajpainaman/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/bajpai_naman"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://namanbajpai.com"><img src="https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
