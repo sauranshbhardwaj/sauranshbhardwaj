@@ -28,7 +28,11 @@
   - Harvard CS50 Series
   - CodePath.org's WEB 103: Advanced Web Development
   - MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
-- **a**:
+- **Drexel University**:
+  - President, Drexel Computational Design
+  - Undergraduate Researcher, Drexel Society of Artificial Intelligence
+  - Full-Stack Web Developer, Drexel Triangle
+  - Resident Founder, Close School of Entrepreneurship
 - **a**: 
 
 
