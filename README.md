@@ -35,6 +35,7 @@
   - Resident Founder, Close School of Entrepreneurship
 - **Previously Built/Worked**:
   - *VidyaVerse*: Built an incentive-based, personalized learning Platform for GenZs around the globe. Partnered with an SF-based accelerator, grew to over 15000 Users, and 20-people team.
+  - *The Boring Media*: Built a $1000 MRR Social Media Marketing Agency for Business Coaches and Podcasters. Scaling Issue led me to shut it and focus on VidyaVerse.
 
 
 ---
