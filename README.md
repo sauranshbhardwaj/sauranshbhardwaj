@@ -27,6 +27,7 @@
 - **Certifications**:
   - CodePath.org's WEB 103: Advanced Web Development
   - Harvard CS50 Series
+  - MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
 - **a**:
 - **a**: 
 
