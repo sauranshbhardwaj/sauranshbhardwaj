@@ -12,8 +12,7 @@
 - 👯 **Collaborating on**: Consumer Based AI-Powered Apps
 - 💬 **Ask me about**: Machine Learning, Natural Language Processing, Blockchain, Astronomy  
 - 📫 **Reach me**: [sauransh.bhardwaj@drexel.edu](mailto:sauransh.bhardwaj@drexel.edu)  
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**: 2x founder with a knack of GTM and UX.  
+- 😄 **Pronouns**: He/Him 
 
 ---
 
