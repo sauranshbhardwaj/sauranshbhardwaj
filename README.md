@@ -79,7 +79,7 @@
 <p>
   <a href="mailto:sauransh.bhardwaj@drexel.edu"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=email&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sauranshbhardwaj/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/sauranshbuilds"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/sauranshbuilds"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=black" /></a>
   <a href="https://sauransh.com"><img src="https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
 
