@@ -9,7 +9,7 @@
   - Autonomous Academic Workflow Agent
   - Semantic UX Assistant for Tailwind CSS
 - 🌱 **Learning**: MCP + Agentic Workflow, Computer Vision, RAG, LLM Orchestration, MLOps 
-- 👯 **Collaborating on**: Consumer Based AI-Powered Apps
+- 👯 **Collaborating on**: Consumer Based AI-Powered Apps and Machine Learning Research
 - 💬 **Ask me about**: Machine Learning, Natural Language Processing, Blockchain, Astronomy  
 - 📫 **Reach me**: [sauransh.bhardwaj@drexel.edu](mailto:sauransh.bhardwaj@drexel.edu)  
 - 😄 **Pronouns**: He/Him 
