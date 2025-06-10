@@ -53,7 +53,7 @@
 |-------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
 | **AI-Powered GitHub Risk Scanner**          | Open, decentralized ML-service registry; federated learning layer atop Beckn Protocol            | Python • FastAPI • Docker • Redis        |
 | **Autonomous Academic Workflow Agent**          | End-to-end video indexer & retriever with auto-clip creation                                      | Python • Whisper • Elasticsearch         |
-| **Semantic UX Assistant for Tailwind CSS**       | Privacy-preserving AI platform: FHE + DP + Avalanche L1                                          | Rust • Zama FHE • AWS Nitro • Opacus     |
+| **Semantic UX Assistant for Tailwind CSS**       | A VS Code extension that suggests context-aware Tailwind styling and enforces UX consistency based on interface intent like onboarding or admin views.                                          | Rust • Zama FHE • AWS Nitro • Opacus     |
 
 ---
 
