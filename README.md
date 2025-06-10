@@ -34,7 +34,7 @@
   - Full-Stack Web Developer, Drexel Triangle
   - Resident Founder, Close School of Entrepreneurship
  
-  ---
+---
 
 ## 👨🏻‍💻 Previously Built/Worked at
 - *VidyaVerse*: Built an incentive-based, personalized learning Platform for GenZs around the globe. Partnered with an SF-based accelerator, grew to over 15000 Users, and 20-people team.
