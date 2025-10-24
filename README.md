@@ -1,5 +1,5 @@
 # Hi there, I’m **Sauransh Bhardwaj** 👋  
-> Machine Learning Engineering Coop @ FMC • Computer Science and Math @ Drexel
+> Computer Science and Math @ Drexel • Prev. Machine Learning Engineering Co-op @ FMC
 
 ---
 
