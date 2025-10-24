@@ -88,13 +88,10 @@
 ---
 
 ## 👨🏻‍💻 Previously Built/Worked at
+- *FMC Corporation*: Worked as a Machine Learning Engineering Co-op, building a RAG-based Agronomy Bot to generate SQL queries, visualizations, and reports from natural language. Fine-tuned Databricks Genie and integrated Azure OpenAI to improve query accuracy by 90%. Designed ETL pipelines processing 250M+ agricultural records for scalable analytics and ML training.
 - *VidyaVerse*: Built an incentive-based, personalized learning Platform for GenZs around the globe. Partnered with an SF-based accelerator, grew to over 15000 Users, and 20-people team.
 - *IIT Roorkee*: Worked as a Machine Learning Intern. Collaborated on an NLP research project with Prof. Sharma, achieving 82% accuracy in sentiment classification.
 - *Webacy*: Worked as a Data Analyst Intern. Through a series of four hands-on projects, mastered the art of identifying, labeling, validating, and analyzing smart contract vulnerabilities.
-- *The Boring Media*: Built a $1000 MRR Social Media Marketing Agency for Business Coaches and Podcasters. Scaling Issue led me to shut it and focus on VidyaVerse.
-- *My Covid Guide*: A live volunteer platform that helped 65+ patients during India’s COVID peak, reaching 150K+ views and organizing 2K+ volunteers.
-- *Proton*: A teen-targeted STEM blog platform that generated 160+ posts, 1M+ impressions, and my first experience leading a 15-person content and dev team.
-
 
 ---
 
