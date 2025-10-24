@@ -69,7 +69,8 @@
 
 ## 🏆 Achievements & Awards
 - **Hacker**:
-  - Stanford TreeHacks 2024
+  - Judge, VTHacks 13
+  - Stanford TreeHacks 2025
   - Berkeley Hack for Impact 2024
 - **Publications**:
   - IMDB Movie Review Sentiment Analysis @ International journal of engineering 2022
@@ -80,10 +81,9 @@
   - CodePath.org's WEB 103: Advanced Web Development
   - MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
 - **Drexel University**:
-  - President, Drexel Computational Design
   - Undergraduate Researcher, Drexel Society of Artificial Intelligence
+  - President, Drexel Computational Design
   - Full-Stack Web Developer, Drexel Triangle
-  - Resident Founder, Close School of Entrepreneurship
  
 ---
 
