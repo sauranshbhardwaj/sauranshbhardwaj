@@ -99,7 +99,7 @@
 
 | Project                       | Description                                                                                      | Tech Stack                              |
 |-------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
-| **AI-Powered GitHub Risk Scanner**  | AI-powered GitHub vulnerability scanner built with Palantir AIP that analyzes public repos to detect secrets, outdated dependencies, and risky contributor behavior using rule-based workflows and LLM-based explanations.  | Python • Palantir AIP • GitHub API • React • Node.js  |
+| **GitHub Risk Scanner**  | Built a full-stack web app as part of DevCon Fellowship using AIP that detects leaked secrets, code vulnerabilities, and risky contributor patterns across repositories using regex, entropy scoring and GitHub metadata parsing. Integrated explainability layer with OpenAI API to deliver contextual fixes and risk scoring for code components.  | Python, FastAPI, PostgreSQL, Redis, Docker, GitHub API  |
 | **Autonomous Academic Workflow Agent**  | AI-powered personal workflow agent designed to help college students manage schedules, deadlines, and academic tasks with minimal friction and maximum ease  | Next.js • Python • OAuth 2.0 • OpenAI API • LangChain  |
 | **Semantic UX Assistant for Tailwind CSS**  | A VS Code extension that suggests context-aware Tailwind styling and enforces UX consistency based on interface intent like onboarding or admin views  | TypeScript • Node.js • ts-morph • VS Code API • ESLint API  |
 
