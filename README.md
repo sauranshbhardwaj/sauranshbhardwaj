@@ -12,10 +12,6 @@
   - **Academic Workflow Agent**: AI Agent to automate study plans and calendar scheduling
 - ⚙️ **Engineering Interests**: Backend Systems, Full-Stack Development, Distributed Architectures, MLOps  
 - 🌱 **Learning**: Systems Design, Microservices, Agentic Workflows, RAG Optimization  
-- 💬 **Ask me about**: Production-grade AI systems and Software Architecture 
-- 📫 **Reach me**: [sauransh.bhardwaj@drexel.edu](mailto:sauransh.bhardwaj@drexel.edu)  
-- 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I love bridging ML intelligence with scalable engineering — building systems that actually ship.
 
 ---
 
