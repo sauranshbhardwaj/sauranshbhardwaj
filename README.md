@@ -5,11 +5,9 @@
 
 ## 🚀 About Me
 - 🔭 **Recent Work**  
-  - **RAG-based Agronomy Bot**: Multi-agent orchestration system
-  - **Github Risk Scanner**: Full-stack security scanner (Palantir DevCon Fellowship)
-  - **Simulated Crypto Trading Platform**: Full-stack, containerized Trading Simulator
-  - **Semantic UX Assistant**: VS Code extension that recommends Tailwind styles (TreeHacks 2025)
-  - **Academic Workflow Agent**: AI Agent to automate study plans and calendar scheduling
+  - **Kid Poker Second Brain**: Play poker with legend Daniel Negreanu (https://www.playwithdanielnegreanu.com/)
+  - **Github Risk Scanner**: Full-stack security scanner (Palantir DevCon)
+  - **Dragon Purity Test**: Drexel's version of Rice Purity Test (https://dragonpuritytest.com/)
 - ⚙️ **Engineering Interests**: Backend Systems, Full-Stack Development, Distributed Architectures, MLOps  
 - 🌱 **Learning**: Systems Design, Microservices, Agentic Workflows, RAG Optimization  
 
