@@ -86,14 +86,6 @@
  
 ---
 
-## 👨🏻‍💻 Previously Built/Worked at
-- *FMC Corporation*: Worked as a Machine Learning Engineering Co-op, building a RAG-based Agronomy Bot to generate SQL queries, visualizations, and reports from natural language. Fine-tuned Databricks Genie and integrated Azure OpenAI to improve query accuracy by 90%. Designed ETL pipelines processing 250M+ agricultural records for scalable analytics and ML training.
-- *VidyaVerse*: Built an incentive-based, personalized learning Platform for GenZs around the globe. Partnered with an SF-based accelerator, grew to over 15000 Users, and 20-people team.
-- *IIT Roorkee*: Worked as a Machine Learning Intern. Collaborated on an NLP research project with Prof. Sharma, achieving 82% accuracy in sentiment classification.
-- *Webacy*: Worked as a Data Analyst Intern. Through a series of four hands-on projects, mastered the art of identifying, labeling, validating, and analyzing smart contract vulnerabilities.
-
----
-
 ## 📫 Connect with Me
 
 <p>
