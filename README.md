@@ -1,5 +1,5 @@
 # 👋 Hey, I’m **Sauransh Bhardwaj**  
-> Computer Science and Math @ Drexel • SWE Co-op @ Penn Mutual • Prev. Machine Learning Engineering Co-op @ FMC Corporation
+> Computer Science and Math @ Drexel • SWE Co-op @ Penn Mutual • Prev. ML Engineering Co-op @ FMC Corporation
 
 ---
 
@@ -73,7 +73,6 @@
   - Stanford TreeHacks 2025
   - Berkeley Hack for Impact 2024
 - **Publications**:
-  - IMDB Movie Review Sentiment Analysis @ International journal of engineering 2022
   - IOT Based Attendance System with COVID-19 Protection @ Indo-Hungary Conference 2022
   - Hand Sign Recognition using Mobile Net Deep Neural Architecture @ International journal of engineering 2022
 - **Certifications**:
@@ -92,16 +91,6 @@
 - *VidyaVerse*: Built an incentive-based, personalized learning Platform for GenZs around the globe. Partnered with an SF-based accelerator, grew to over 15000 Users, and 20-people team.
 - *IIT Roorkee*: Worked as a Machine Learning Intern. Collaborated on an NLP research project with Prof. Sharma, achieving 82% accuracy in sentiment classification.
 - *Webacy*: Worked as a Data Analyst Intern. Through a series of four hands-on projects, mastered the art of identifying, labeling, validating, and analyzing smart contract vulnerabilities.
-
----
-
-## 💼 Featured Projects
-
-| Project                       | Description                                                                                      | Tech Stack                              |
-|-------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------|
-| **GitHub Risk Scanner**  | Built a full-stack web app as part of DevCon Fellowship using AIP that detects leaked secrets, code vulnerabilities, and risky contributor patterns across repositories using regex, entropy scoring and GitHub metadata parsing. Integrated explainability layer with OpenAI API to deliver contextual fixes and risk scoring for code components.  | Python, FastAPI, PostgreSQL, Redis, Docker, GitHub API  |
-| **Simulated Crypto Trading Platform**  | Created a full-stack, containerized trading simulator with real-time crypto prices, live leaderboards, and learning modules, integrating Binance, CoinDesk, and TwelveData APIs for diversified market data and user analytics. Deployed concurrent Go backend with scheduled background processes and REST/WS endpoints.  | Go, React, SuperTokens, Docker, Websockets |
-| **Semantic UX Assistant**  | Collaborated with a team of three at TreeHacks 2025 to develop a VS Code extension that detects UX context and recommends Tailwind styles based on intent-aware design rules with inline diagnostics and auto-suggestions. Utilized GPT-4 for style pattern inference and explanation generation, enabling semantic mismatch detection.  | TypeScript, Python, Node.js, ts-morph, Tailwind CSS  |
 
 ---
 
