@@ -4,12 +4,12 @@
 ---
 
 ## 🚀 About Me
-- 🔭 **Recent Work**  
+- **Recent Work**  
   - **Kid Poker Second Brain**: Play poker with legend Daniel Negreanu (https://www.playwithdanielnegreanu.com/)
   - **Github Risk Scanner**: Full-stack security scanner (Palantir DevCon)
   - **Dragon Purity Test**: Drexel's version of Rice Purity Test (https://dragonpuritytest.com/)
-- ⚙️ **Engineering Interests**: Backend Systems, Full-Stack Development, Distributed Architectures, MLOps  
-- 🌱 **Learning**: Systems Design, Microservices, Agentic Workflows, RAG Optimization
+- **Engineering Interests**: Backend Systems, Full-Stack Development, Distributed Architectures, MLOps  
+- **Learning**: Systems Design, Microservices, Agentic Workflows, RAG Optimization
 - **Hacker**: VTHacks 13 (Judge), TreeHacks '25, LA Hacks '25, Cal Hacks '24
 - **Publications**:
   - IOT Based Attendance System with COVID-19 Protection @ Indo-Hungary Conference 2022
