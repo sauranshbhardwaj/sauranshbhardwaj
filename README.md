@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - **Recent Work**  
-  - **Threebrain AI**: Enterprise Agent Workflows from Company Knowledge
+  - **Threebrain AI**: Enterprise Agent Workflows from Company Knowledge (https://www.npmjs.com/package/threebrain-ai)
   - **Kid Poker Second Brain**: Play poker with legend Daniel Negreanu (https://www.playwithdanielnegreanu.com/)
   - **Github Risk Scanner**: Full-stack security scanner (Palantir DevCon)
   - **Dragon Purity Test**: Drexel's version of Rice Purity Test (https://dragonpuritytest.com/)
